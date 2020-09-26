@@ -1,2 +1,2 @@
-# add class to any html element
- add class to any html element with mouse click js event
+# Add class to any html element
+ Add class to any html element by clicking on it using "mouse click js event".
